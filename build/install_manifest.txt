@@ -1,0 +1,2 @@
+/home/alinx/PCL/pcl_example/generate_random_point_cloud/lib/libgenerate_random_pointcloud.so
+/home/alinx/PCL/pcl_example/generate_random_point_cloud/header/random_pointcloud.h
